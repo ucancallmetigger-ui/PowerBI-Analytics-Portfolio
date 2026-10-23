@@ -1,0 +1,11 @@
+# Temporary and local files
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Power BI recovery files
+*.pbix.autorecover
+*.pbit.autorecover
