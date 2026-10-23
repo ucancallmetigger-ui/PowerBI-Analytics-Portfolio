@@ -87,6 +87,26 @@ The exact refresh steps depend on how the dataset was imported and where the loc
 
 ## Project status
 
+
+
+## Dashboard Previews
+
+### 1. Sales Overview
+![Sales Overview](screenshots/sales-overview.png)
+
+### 2. Regional Analysis
+![Regional Analysis](screenshots/regional-analysis.png)
+
+### 3. Product Analysis
+![Product Analysis](screenshots/product-analysis.png)
+
+### 4. Profitability Analysis
+![Profitability Analysis](screenshots/profitability-analysis.png)
+
+### 5. Product Ranking
+![Product Ranking](screenshots/product-ranking.png)
+
+
 The five report pages and their main visuals have been built and formatted. Add screenshots of the final report to the `screenshots/` directory and update the image section when they are ready.
 
 ## Author
